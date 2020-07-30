@@ -1,6 +1,6 @@
 # The Tao of Programming
 
-Note: I copied this from https://www.mit.edu/~xela/tao.html and removed even more formating tags -- José Neta
+Note: I copied this from https://www.mit.edu/~xela/tao.html and removed even more formatting tags -- José Neta
 
 ## BOOK 1
 
