@@ -1,3 +1,0 @@
-# tao
-
-The right way
